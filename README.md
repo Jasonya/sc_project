@@ -9,5 +9,5 @@ Watch Demo video to know about this project!\
 
 ## Source Code
 
-Source code is in the *stanCode project* folder! Including babaygraphics, boggle game, anagram, bouncing ball, my drawing, breakoutgraphics and stanCodeshop!/
-Let's go take a look!!!/
+Source code is in the *stanCode project* folder! Including babaygraphics, boggle game, anagram, bouncing ball, my drawing, breakoutgraphics and stanCodeshop!\
+Let's go take a look!!!
